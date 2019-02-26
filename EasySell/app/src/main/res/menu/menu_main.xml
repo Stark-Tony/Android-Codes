@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.starklabs.easysell.MainActivity">
+
+    <item android:id="@+id/myads" android:title="@string/MyAds">
+    </item>
+
+    <item android:id="@+id/profile" android:title="@string/Profile">
+    </item>
+
+    <item android:id="@+id/about" android:title="@string/AboutUs">
+    </item>
+</menu>
